@@ -28,7 +28,5 @@
 <div>
  <a href="https://instagram.com/carlos_godspeed" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitee" target="_blank"></a>
  <a href="https://www.linkedin.com/in/carlos-henrique-silva-nascimento-4805b31b1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4805b31b1?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  ![Animação de cobra](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
