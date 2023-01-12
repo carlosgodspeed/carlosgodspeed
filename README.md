@@ -1,7 +1,16 @@
 ## Oiii eu sou o Carlos Henrique
 <div align="center">
-  <a href="https://github.com/carlosgodspeed">
- 
+  <a href="https://beacons.ai/carlosgodspeed">
+     <img height="176em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosgodspeed&theme=2077">
+     <img height="176em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosgodspeed&theme=2077">
+     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlosgodspeed&theme=2077">
+     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carlosgodspeed&theme=2077">
+     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlosgodspeed&theme=2077&utcOffset=8">
+    
+    
+    
+    
+    
 </div>
 <div style="display: inline_block"><br>
  <div align="center"> 
