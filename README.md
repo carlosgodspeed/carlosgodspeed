@@ -1,7 +1,10 @@
 ## Oiii eu sou o Carlos Henrique 
 <div align="center">  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosgodspeed&show_icons=true&theme=highcontrast"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgodspeed&layout=compact&langs_count=7&theme=highcontrast"/>
+<img height="176em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosgodspeed&theme=2077">
+     <img height="176em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosgodspeed&theme=2077">
+     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlosgodspeed&theme=2077">
+     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carlosgodspeed&theme=2077">
+     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlosgodspeed&theme=2077&utcOffset=8">
     
     
     
