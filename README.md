@@ -1,23 +1,24 @@
 # Carlos Henrique
 
-Olá! Sou Carlos Henrique, um desenvolvedor apaixonado por programação e tecnologia.
+Olá! sou um desenvolvedor web apaixonado por criar experiências digitais inovadoras. Combinando habilidades técnicas sólidas, criatividade e uma abordagem centrada no usuário, estou constantemente em busca de soluções elegantes para desafios complexos.
 
 ## Estatísticas
 
 <div align="center">   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosgodspeed&show_icons=true&theme=highcontrast"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgodspeed&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img  height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosgodspeed&theme=highcontrast" alt="carlosgodspeed"/>
 </div>
 
 ## Tecnologias
 
 <div align="center"> 
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
+  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
 </div>
 
 ## Contato
