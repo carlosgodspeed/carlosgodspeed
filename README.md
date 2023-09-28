@@ -7,7 +7,6 @@ Olá! sou um desenvolvedor web apaixonado por criar experiências digitais inova
 <div align="center">   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosgodspeed&show_icons=true&theme=highcontrast"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgodspeed&layout=compact&langs_count=7&theme=highcontrast"/>
-  <img  height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosgodspeed&theme=highcontrast" alt="carlosgodspeed"/>
 </div>
 
 ## Tecnologias
@@ -17,8 +16,8 @@ Olá! sou um desenvolvedor web apaixonado por criar experiências digitais inova
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
+  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 </div>
 
 ## Contato
