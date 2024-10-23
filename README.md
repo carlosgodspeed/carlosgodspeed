@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+CARLOS+HENRIQUE+:%29)](https://git.io/typing-svg) 
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente focado em JavaScript e React Native. Com formação em Processos Químicos, busco integrar meu conhecimento em programação com a solução de problemas do mundo real, criando experiências digitais impactantes.
-
-Minha experiência inclui o desenvolvimento de aplicações web e mobile, onde busco sempre aprimorar minhas habilidades e aprender novas ferramentas. Estou sempre em busca de desafios que me permitam crescer profissionalmente e contribuir para projetos que fazem a diferença.
-
 ## Estatísticas
 
 <div align="center">   
