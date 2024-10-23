@@ -1,4 +1,6 @@
-# Carlos Henrique
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+CARLOS+HENRIQUE+:%29)](https://git.io/typing-svg) 
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente focado em JavaScript e React Native. Com formação em Processos Químicos, busco integrar meu conhecimento em programação com a solução de problemas do mundo real, criando experiências digitais impactantes.
 
@@ -31,4 +33,5 @@ Minha experiência inclui o desenvolvimento de aplicações web e mobile, onde b
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/Carlos_godspeed" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=footer"/>
 
