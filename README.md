@@ -1,6 +1,8 @@
 # Carlos Henrique
 
-Olá! sou um desenvolvedor web apaixonado por criar experiências digitais inovadoras. Combinando habilidades técnicas sólidas, criatividade e uma abordagem centrada no usuário, estou constantemente em busca de soluções elegantes para desafios complexos.
+Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente focado em JavaScript e React Native. Com formação em Processos Químicos, busco integrar meu conhecimento em programação com a solução de problemas do mundo real, criando experiências digitais impactantes.
+
+Minha experiência inclui o desenvolvimento de aplicações web e mobile, onde busco sempre aprimorar minhas habilidades e aprender novas ferramentas. Estou sempre em busca de desafios que me permitam crescer profissionalmente e contribuir para projetos que fazem a diferença.
 
 ## Estatísticas
 
