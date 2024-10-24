@@ -1,33 +1,33 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+CARLOS+HENRIQUE+:%29)](https://git.io/typing-svg) 
-
-## Estatísticas
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF&height=120&section=header"/>
 
 <div align="center">   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosgodspeed&show_icons=true&theme=highcontrast"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgodspeed&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosgodspeed&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgodspeed&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## Tecnologias
+ 
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+<Br>
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+ 
+### Other Technologies:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+<br>
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![Tailwindcss](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=TailwindCSS&labelColor=0D1117)&nbsp;
+### Studying in this moment:
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 
-<div align="center"> 
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
-
-## Contato
-
-- Email: carlosminibics@gmail.com
- <br/>
- <a href="https://instagram.com/carlos_godspeed" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitee" target="_blank"></a>
- <a href="https://www.linkedin.com/in/carlos-henrique-4805b31b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4805b31b1?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- <a href="https://twitter.com/Carlos_godspeed" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF&height=120&section=footer"/>
 
