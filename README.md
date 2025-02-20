@@ -11,8 +11,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosgodspeed&show_icons=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosgodspeed&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosgodspeed&show_icons=true&count_private=true&theme=dark" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosgodspeed&layout=compact&langs_count=5&theme=dark" height="150" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -41,16 +41,14 @@
 
 ### 🗄️ Banco de Dados
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="45" alt="MySQL"/>
 </div>
 
 ### 🚀 Frameworks & Bibliotecas
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React"/>
   <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" height="45" alt="Laravel"/>
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="Tailwind CSS"/>
 </div>
