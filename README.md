@@ -42,6 +42,7 @@
 ### 🗄️ Banco de Dados
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" height="45" alt="MySQL"/>
 </div>
 
 ### 🚀 Frameworks & Bibliotecas
