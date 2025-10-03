@@ -82,7 +82,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://www.bing.com/th/id/OGC.bdc9fb3aaec18ceaeffec5577c844541?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f21%2f11%2f61%2f21116158daaeb1459b4ec0758505e1ad.gif&ehk=A%2bi8jyyV9kphIyP7Bt%2fValO52Elr0gbubQ6qb%2f%2fwFfc%3d" alt="GIF" />
-</div>
