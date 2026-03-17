@@ -11,7 +11,8 @@ Gosto de aprender através da prática, criando projetos e explorando novas tecn
 
 ## <img src="https://img.shields.io/badge/Certificações%20%26%20Formação-0A66C2?style=for-the-badge&logoColor=black">
 - Análise e Desenvolvimento de Sistemas - UNIP
-- Bootcamp Front-End — DIO
+- Bootcamp Ri Happy Front-End — DIO
+- Santander Bootcamp Fullstack Java + Angular - DIO
 - Automação e Provisionamento de Serviços em Nuvem - Universidade Pitágoras Unopar Anhanguera
 
 <br>
@@ -55,7 +56,7 @@ Gosto de aprender através da prática, criando projetos e explorando novas tecn
 <img src="https://raw.githubusercontent.com/carlosgodspeed/carlosgodspeed/output/snake.svg" alt="Snake animation" />
 </div>
 
-## <img src="https://img.shields.io/badge/Tecnologias-0A66C2?style=for-the-badge&logoColor=white" />
+## 
 
 ### Linguagens de Programação
 <div align="left">
@@ -102,9 +103,12 @@ Gosto de aprender através da prática, criando projetos e explorando novas tecn
 </div>
 
 <br>
+
+##
+
 <div>
   
-## <img src="https://img.shields.io/badge/Projetos em Detaque-0A66C2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Projetos em Detaque-0A66C2?style=for-the-badge&logoColor=white" />
 
 ## NucleStock - Sistema de Gerenciamento e Controle de Estoque
 
