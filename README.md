@@ -38,15 +38,6 @@ Experiência na construção de interfaces responsivas e APIs REST, com foco em 
 
 ---
 
-## 💻 Stack Principal
-
-* **Frontend:** React, JavaScript, TypeScript
-* **Backend:** Java, Spring Boot
-* **Banco de Dados:** MySQL, Firebase
-* **Ferramentas:** Git, Postman, Figma
-
----
-
 ## 🛠 Tecnologias
 
 ### Linguagens
@@ -72,6 +63,7 @@ Experiência na construção de interfaces responsivas e APIs REST, com foco em 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Figma](https://img.shields.io/badge/Notion-black?style=for-the-badge\&logo=notion\&logoColor=white)
 
 ---
 
