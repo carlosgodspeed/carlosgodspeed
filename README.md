@@ -1,10 +1,10 @@
-# Carlos Henrique | Desenvolvedor Full Stack
+# Carlos Henrique | Desenvolvedor
 
 Desenvolvedor focado em aplicações web modernas utilizando **React, JavaScript e Java com Spring Boot**.
 Experiência na construção de interfaces responsivas e APIs REST, com foco em organização, performance e boas práticas.
 
 🚀 Atuando com projetos próprios e freelances
-📍 Aberto a oportunidades como Desenvolvedor Front-End / Full Stack
+📍 Aberto a oportunidades como Desenvolvedor 
 
 ---
 
