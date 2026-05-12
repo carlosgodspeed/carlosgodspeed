@@ -89,13 +89,13 @@ Aplicação web para gerenciamento de estoque com controle de entradas e saídas
 
 ---
 
-### 🔵 API REST com Spring Boot e Swagger
+### 🏥 Hospital Management API
 
-API REST com documentação automática utilizando Swagger/OpenAPI.
+API REST desenvolvida para gerenciamento hospitalar, incluindo controle de usuários, pacientes, agendamentos e permissões de acesso por perfil. Projeto focado em arquitetura back-end, regras de negócio, autenticação e segurança da aplicação.
 
-**Stack:** Java, Spring Boot, Maven
+**Stack:** Java, Spring Boot, MySQL, JPA/Hibernate, JWT, Maven
 
-🔗 [https://github.com/carlosgodspeed/API-REST-SPRING_SWAGGER](https://github.com/carlosgodspeed/API-REST-SPRING_SWAGGER)
+🔗 [https://github.com/carlosgodspeed/hospital-management-api](https://github.com/carlosgodspeed/hospital-management-api)
 
 ---
 
