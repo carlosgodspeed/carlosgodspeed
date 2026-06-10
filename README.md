@@ -31,8 +31,8 @@ Experiência na construção de interfaces responsivas e APIs REST, com foco em 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlosgodspeed&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=carlosgodspeed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlosgodspeed&show_icons=true&theme=dracula&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=carlosgodspeed&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
 </p>
 
 
