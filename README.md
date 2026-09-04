@@ -1,7 +1,6 @@
 # Carlos Henrique | Desenvolvedor
 
-Desenvolvedor focado em aplicações web modernas utilizando **React, JavaScript e Java com Spring Boot**.
-Experiência na construção de interfaces responsivas e APIs REST, com foco em organização, performance e boas práticas.
+Desenvolvedor focado em aplicações web modernas com **React, JavaScript/TypeScript e Java com Spring Boot**. Gosto de construir interfaces responsivas e APIs REST bem estruturadas, com atenção a organização, performance e boas práticas de desenvolvimento.
 
 🚀 Atuando com projetos próprios e freelances
 📍 Aberto a oportunidades como Desenvolvedor 
@@ -31,7 +30,7 @@ Experiência na construção de interfaces responsivas e APIs REST, com foco em 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlosgodspeed&show_icons=true&theme=dracula&hide_border=true"/>
+  <img height="160em" src="https://streak-stats.demolab.com?user=carlosgodspeed&theme=dracula&hide_border=true"/>
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=carlosgodspeed&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
 </p>
 
@@ -61,7 +60,7 @@ Experiência na construção de interfaces responsivas e APIs REST, com foco em 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-9300FF?style=for-the-badge\&logo=insomnia\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Notion-black?style=for-the-badge\&logo=notion\&logoColor=white)
 
@@ -69,10 +68,13 @@ Experiência na construção de interfaces responsivas e APIs REST, com foco em 
 
 ## 🎓 Formação & Certificações
 
-* Análise e Desenvolvimento de Sistemas - UNIP
-* Bootcamp Ri Happy Front-End — DIO
-* Santander Bootcamp Fullstack Java + Angular — DIO
-* Automação e Provisionamento de Serviços em Nuvem — Anhanguera
+
+- Análise e Desenvolvimento de Sistemas — UNIP
+- Santander 2026 — AI Java Back-end
+- Itaú — Java com Inteligência Artificial
+- Santander Bootcamp Fullstack Java + Angular — DIO
+- Bootcamp Ri Happy Front-End — DIO
+- Automação e Provisionamento de Serviços em Nuvem — Anhanguera
 
 ---
 
@@ -91,7 +93,7 @@ Aplicação web para gerenciamento de estoque com controle de entradas e saídas
 
 ### 🏥 Hospital Management API
 
-API REST desenvolvida para gerenciamento hospitalar, incluindo controle de usuários, pacientes, agendamentos e permissões de acesso por perfil. Projeto focado em arquitetura back-end, regras de negócio, autenticação e segurança da aplicação.
+API REST para gerenciamento hospitalar: controle de usuários, pacientes, agendamentos e permissões de acesso por perfil (Admin, Médico, Paciente). Projeto focado em arquitetura back-end, regras de negócio, autenticação e segurança da aplicação.
 
 **Stack:** Java, Spring Boot, MySQL, JPA/Hibernate, JWT, Maven
 
